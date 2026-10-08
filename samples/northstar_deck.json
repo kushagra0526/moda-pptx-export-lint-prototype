@@ -1,0 +1,37 @@
+{
+  "name": "Northstar customer story (synthetic)",
+  "size_in": [13.333, 7.5],
+  "brand": {
+    "colors": {"navy": "#14213D", "orange": "#F26B3A", "cream": "#FAF3E8", "slate": "#5B6475", "white": "#FFFFFF"},
+    "fonts": {"Inter Display": "Arial", "Inter": "Arial"},
+    "min_text_pt": 10
+  },
+  "slides": [
+    {"id": "s1", "layers": [
+      {"id": "bg", "type": "shape", "shape": "rect", "box": [0, 0, 13.333, 7.5], "fill": "#14213D"},
+      {"id": "orb", "type": "shape", "shape": "oval", "box": [9.4, -1.2, 5.2, 5.2], "fill": "#F26B3A", "blend": "multiply", "opacity": 0.85},
+      {"id": "title", "type": "text", "box": [0.8, 2.3, 9.6, 1.6], "text": "Northstar cuts month-end close from 9 days to 2",
+       "font": "Inter Display", "size": 50, "bold": true, "color": "#FFFFFF"},
+      {"id": "subtitle", "type": "text", "box": [0.8, 4.45, 8.0, 0.6], "text": "Customer results · Q3 2026", "font": "Inter", "size": 22, "color": "#FAF3E8"}
+    ]},
+    {"id": "s2", "layers": [
+      {"id": "bg", "type": "shape", "shape": "rect", "box": [0, 0, 13.333, 7.5], "fill": "#FAF3E8"},
+      {"id": "heading", "type": "text", "box": [0.8, 0.6, 11.0, 0.9], "text": "Why finance teams switch", "font": "Inter Display", "size": 36, "bold": true, "color": "#14213D"},
+      {"id": "card", "type": "shape", "shape": "roundrect", "box": [0.7, 1.75, 6.4, 4.9], "fill": "#FFFFFF", "opacity": 0.6, "backdrop_blur": 14},
+      {"id": "body", "type": "text", "box": [0.9, 1.95, 6.0, 2.8],
+       "text": "Before Northstar, the team reconciled four bank accounts, two card programs and Stripe payouts by hand in spreadsheets. Every close meant chasing receipts in Slack, re-checking FX rates and rebuilding the same variance report. Now reconciliations run continuously, exceptions land in one queue with the reason attached, and the controller signs off in an afternoon instead of a week.",
+       "font": "Inter", "size": 20, "color": "#14213D"},
+      {"id": "quote", "type": "text", "box": [7.6, 2.2, 5.0, 2.4], "text": "“We close in two days and actually trust the numbers.”", "font": "Inter Display", "size": 28, "bold": true, "color": "#F26B3A"}
+    ]},
+    {"id": "s3", "layers": [
+      {"id": "bg", "type": "shape", "shape": "rect", "box": [0, 0, 13.333, 7.5], "fill": "#14213D"},
+      {"id": "m1", "type": "text", "box": [0.8, 2.0, 3.8, 1.4], "text": "9 → 2", "font": "Inter Display", "size": 66, "bold": true, "color": "#FF5A1F"},
+      {"id": "m2", "type": "text", "box": [4.9, 2.0, 3.8, 1.4], "text": "−78%", "font": "Inter Display", "size": 66, "bold": true, "color": "#FF5A1F"},
+      {"id": "m3", "type": "text", "box": [9.0, 2.0, 3.8, 1.4], "text": "14", "font": "Inter Display", "size": 66, "bold": true, "color": "#FF5A1F"},
+      {"id": "l1", "type": "text", "box": [0.8, 3.5, 3.8, 0.6], "text": "days to close", "font": "Inter", "size": 20, "color": "#FAF3E8"},
+      {"id": "l2", "type": "text", "box": [4.9, 3.5, 3.8, 0.6], "text": "manual adjustments", "font": "Inter", "size": 20, "color": "#FAF3E8"},
+      {"id": "l3", "type": "text", "box": [9.0, 3.5, 3.8, 0.6], "text": "entities consolidated", "font": "Inter", "size": 20, "color": "#FAF3E8"},
+      {"id": "foot", "type": "text", "box": [0.8, 6.7, 11.5, 0.4], "text": "Source: illustrative figures for a fictional customer, synthetic demo data.", "font": "Inter", "size": 8, "color": "#5B6475"}
+    ]}
+  ]
+}

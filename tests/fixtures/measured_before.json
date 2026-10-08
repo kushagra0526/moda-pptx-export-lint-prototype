@@ -1,0 +1,86 @@
+﻿[
+    {
+        "name":  "s1/title",
+        "lines":  2,
+        "text_height_pt":  120,
+        "box_height_pt":  115.2,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s1/subtitle",
+        "lines":  1,
+        "text_height_pt":  26.4,
+        "box_height_pt":  43.2,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s2/heading",
+        "lines":  1,
+        "text_height_pt":  43.2,
+        "box_height_pt":  64.8,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s2/body",
+        "lines":  9,
+        "text_height_pt":  216,
+        "box_height_pt":  201.6,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s2/quote",
+        "lines":  2,
+        "text_height_pt":  67.2,
+        "box_height_pt":  172.8,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/m1",
+        "lines":  1,
+        "text_height_pt":  79.2,
+        "box_height_pt":  100.8,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/m2",
+        "lines":  1,
+        "text_height_pt":  79.2,
+        "box_height_pt":  100.8,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/m3",
+        "lines":  1,
+        "text_height_pt":  79.2,
+        "box_height_pt":  100.8,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/l1",
+        "lines":  1,
+        "text_height_pt":  24,
+        "box_height_pt":  43.2,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/l2",
+        "lines":  1,
+        "text_height_pt":  24,
+        "box_height_pt":  43.2,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/l3",
+        "lines":  1,
+        "text_height_pt":  24,
+        "box_height_pt":  43.2,
+        "margins_pt":  7.1999998092651367
+    },
+    {
+        "name":  "s3/foot",
+        "lines":  1,
+        "text_height_pt":  9.6,
+        "box_height_pt":  28.8,
+        "margins_pt":  7.1999998092651367
+    }
+]
